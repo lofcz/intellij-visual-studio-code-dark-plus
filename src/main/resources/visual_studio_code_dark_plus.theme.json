@@ -1,7 +1,7 @@
 {
-  "name": "Visual Studio Code Dark Plus",
+  "name": "Visual Studio Code Dark Plus [PRE 2024 FORK]",
   "dark": true,
-  "author": "Alexander Makarov",
+  "author": "Alexander Makarov, Matěj \"lofcz\" Štágl",
   "editorScheme": "/visual_studio_code_dark_plus.xml",
   "colors": {
     "background": "#252526",
