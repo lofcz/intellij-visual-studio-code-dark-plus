@@ -12,4 +12,4 @@ The other changes from upstream will be periodically pulled.
 All credits go to the theme author https://github.com/samdark
 
 Why fork?
-JetBrain IDEs update plugins somethimes without the explicit gesture from the user and manually downgrading to the previous version is tiresome. Plus the other changes upstream offers are good.
+JetBrains IDEs update plugins sometimes without the explicit gesture from the user and manually downgrading to the previous version is tiresome. Plus the other changes upstream offers are good.
