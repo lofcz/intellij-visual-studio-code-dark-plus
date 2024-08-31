@@ -4,7 +4,7 @@
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
     <property name="modified">2024-08-30T17:55:17</property>
-    <property name="originalScheme">Visual Studio Code Dark Plus</property>
+    <property name="originalScheme">Visual Studio Code Dark Plus [PRE 2024 FORK]</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
@@ -806,7 +806,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="004fff" />
+        <option name="FOREGROUND" value="dcdcaa" />
         <option name="ERROR_STRIPE_COLOR" value="42bd77" />
       </value>
     </option>

@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [1.0.1] - 2024-08-31
+
+- Revert search result colors.
+
 ## [1.0.0] - 2024-08-30
 
 - Initial release.
