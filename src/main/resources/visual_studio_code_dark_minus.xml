@@ -1,10 +1,10 @@
-<scheme name="Visual Studio Code Dark Plus [PRE 2024 FORK]" version="142" parent_scheme="Darcula">
+<scheme name="Visual Studio Code Dark Minus" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2024-08-30T16:51:16</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2024-08-30T17:55:17</property>
-    <property name="originalScheme">Visual Studio Code Dark Plus [PRE 2024 FORK]</property>
+    <property name="modified">2024-12-13T17:55:17</property>
+    <property name="originalScheme">Visual Studio Code Dark Minus</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="adaeac" />

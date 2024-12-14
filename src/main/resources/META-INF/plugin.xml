@@ -1,11 +1,11 @@
 <idea-plugin>
-  <id>com.lofcz.intellij-visual-studio-code-dark-plus</id>
-  <name>Visual Studio Code Dark Plus Theme [PRE 2024 FORK]</name>
+  <id>com.lofcz.intellij-visual-studio-code-dark-minus</id>
+  <name>Visual Studio Code Dark Minus Theme</name>
   <vendor email="stagl@wattlescript.org" url="https://github.com/lofcz">Matěj "lofcz" Štágl</vendor>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="351d858d-cbd5-4959-9618-4e9a15e88a59" path="/visual_studio_code_dark_plus.theme.json"/>
-    <bundledColorScheme id="com.lofcz.intellij-visual-studio-code-dark-plus" path="/visual_studio_code_dark_plus"/>
+    <themeProvider id="351d858d-cbd5-4959-9618-4e9a15e88a59" path="/visual_studio_code_dark_minus.theme.json"/>
+    <bundledColorScheme id="com.lofcz.intellij-visual-studio-code-dark-minus" path="/visual_studio_code_dark_minus"/>
   </extensions>
 
   <depends>com.intellij.modules.platform</depends>
